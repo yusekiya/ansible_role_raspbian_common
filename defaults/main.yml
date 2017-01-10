@@ -1,0 +1,6 @@
+---
+raspbian_common_hostname: raspberrypi
+raspbian_common_timezone: 'Asia/Tokyo'
+raspbian_common_packages:
+  - {name: vim}
+  - {name: git}
